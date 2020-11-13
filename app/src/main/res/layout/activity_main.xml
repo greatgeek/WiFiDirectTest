@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/discoverPeers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="discoverPeers"/>
+
+    <Button
+        android:id="@+id/become_GO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="become_GO"/>
+
+    <Button
+        android:id="@+id/connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="connect"/>
+
+    <Button
+        android:id="@+id/removeGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="removeGroup"/>
+    <Button
+        android:id="@+id/Server"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Server"/>
+    <Button
+        android:id="@+id/Client"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Client"/>
+    <Button
+        android:id="@+id/requestGroupInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="requestGroupInfo"/>
+    <Button
+        android:id="@+id/getIPaddr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="getIPaddr"/>
+    <Button
+        android:id="@+id/getBTmac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="getBTmac"/>
+    <Button
+        android:id="@+id/setDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="setDeviceName"/>
+
+
+</LinearLayout>
